@@ -15,3 +15,8 @@
 - ESC & brushless motors
 - Propellers
 - MPU-6050 module
+
+
+***
+
+>*Contributors* : Mário Harvan & Juraj Martiček (@georgjr2)
