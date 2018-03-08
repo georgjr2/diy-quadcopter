@@ -1,5 +1,5 @@
 # DIY Drone Quadrocopter
-## Complete guide to your own quadrocopter
+## Complete guide to your own quadrocopter : [wiki/Guide](https://github.com/georgjr2/diy-quadcopter/wiki/Guide)
 
 ## *Prerequisites*
 *Skills & tools*
