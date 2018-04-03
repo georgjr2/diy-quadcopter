@@ -20,7 +20,7 @@
 ***
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=YgXQP91KrzQ"><img src="https://ctrlv.cz/shots/2018/04/03/mmBm.png" alt="DRON VIDEO"></a>
+  <a href="https://www.youtube.com/watch?v=YgXQP91KrzQ"><img src="https://img.youtube.com/vi/YgXQP91KrzQ/0.jpg" alt="DRON VIDEO"></a>
 </div>
 
 >*Contributors* : Mário Harvan & Juraj Martiček (@georgjr2)
