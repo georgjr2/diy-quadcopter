@@ -19,6 +19,8 @@
 
 ***
 
-<iframe src='https://www.clay.run/oembed/nicoslepicos/github-create-video-embed-mock' style='height: 500px;width: 100%;border: 0;box-shadow: 0px 0px 4px rgba(222,222,222,0.9);'/>
+<div>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/YgXQP91KrzQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </div>
 
 >*Contributors* : Mário Harvan & Juraj Martiček (@georgjr2)
