@@ -19,8 +19,8 @@
 
 ***
 
-<div>
-<iframe width="854" height="480" src="https://www.youtube.com/embed/YgXQP91KrzQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-  </div>
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=YgXQP91KrzQ"><img src="https://ctrlv.cz/shots/2018/04/03/mmBm.png" alt="DRON VIDEO"></a>
+</div>
 
 >*Contributors* : Mário Harvan & Juraj Martiček (@georgjr2)
